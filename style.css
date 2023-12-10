@@ -84,3 +84,10 @@ button {
     box-shadow: 0 0 30px lightblue;
 }
 
+.filter-btn:hover {
+    box-shadow: 0 0 30px lightblue;
+}
+
+.filter-btn:active {
+    background-color: lightgray;
+}
